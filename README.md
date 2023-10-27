@@ -2,14 +2,26 @@
 
 Software engineer & solopreneur
 
-- ✈ I worked as a CTO and co-founder of Online Travel Agency [Aviata.kz](https://aviata.kz/)
-- 🎮 Spent 4 years working in GameDev at [Playrix](https://playrix.com/) building a marketing automation platform for Mobile User Acquisition
-- Are you curious about where I work? Take a look at my [LinkedIn profile](https://www.linkedin.com/in/adylzhan-khashtamov-b0432586/)
-- I have a [blog📖](https://khashtamov.com/ru/)
-- Also you can follow me on [twitter 🐦](https://twitter.com/adilkhash)
+- I build software people like to use
+- You can follow me on [twitter 🐦](https://twitter.com/adilkhash)
+
+## My projects 🚀:
+- [remotelist](https://remotelist.ru/), the best place to find a remote job
+- [blog](https://khashtamov.com/), my personal blog about software engineering
 
 ## My popular blog posts ✍️:
 
 - [Введение в pandas: анализ данных на Python](https://khashtamov.com/ru/pandas-introduction/)
 - [How To Become a Data Engineer](https://khashtamov.com/en/how-to-become-a-data-engineer/)
 - [Introduction to Window Functions in SQL](https://khashtamov.com/en/sql-window-functions/)
+
+
+## My open source contributions 🌱:
+I contribute to open source projects from time to time. Here are some of them:
+
+- [python-social-auth](https://github.com/python-social-auth)
+- [luigi](https://github.com/spotify/luigi)
+- [apache airflow](https://github.com/apache/airflow)
+- [django-trix-editor](https://github.com/adilkhash/django-trix-editor)
+
+and many more.
