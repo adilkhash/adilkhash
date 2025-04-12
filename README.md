@@ -6,7 +6,6 @@ Software engineer & solopreneur
 - You can follow me on [twitter 🐦](https://twitter.com/adilkhash)
 
 ## My projects 🚀:
-- [remotelist](https://remotelist.ru/), the best place to find a remote job
 - [blog](https://khashtamov.com/), my personal blog about software engineering
 
 ## My popular blog posts ✍️:
